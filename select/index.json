@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "オン・アワ・ウェイ",
+  "base_artist": "The Royal Concept",
+  "createdAt": "2025-12-12T04:25:43.331782Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オン・アワ・ウェイ",
+      "artist": "ザ・ロイヤル・コンセプト",
+      "has_synced": false,
+      "path": "select/pl_01_オン・アワ・ウェイ_ザ・ロイヤル・コンセプト.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "On Our Way",
+      "artist": "ザ・ロイヤル・コンセプト",
+      "has_synced": false,
+      "path": "select/pl_02_On_Our_Way_ザ・ロイヤル・コンセプト.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "On Our Way",
+      "artist": "ザ・ロイヤル・コンセプト",
+      "has_synced": false,
+      "path": "select/pl_03_On_Our_Way_ザ・ロイヤル・コンセプト.txt"
+    }
+  ]
+}
